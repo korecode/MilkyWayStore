@@ -1,0 +1,22 @@
+﻿body {
+    background: #111112;
+}
+.site-header {
+    background-color: rgba(29, 30, 34, .85);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+h3 {
+    color: #fff
+}
+h2 {
+    color: #fff
+}
+h1 {
+    color: #fff
+}
+p {
+    color: #fff
+}
+a {
+    color: #fff
+}

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=MilkyWayStore;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
